@@ -1,0 +1,109 @@
+
+.btn {
+    cursor: pointer;
+  }
+  .btn-group {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .dropdown-menu a {
+    color: black;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-menu a:hover {background-color: #f1f1f1}
+  
+.d-flex{
+    margin-left:400px ;
+}
+.navbtn{
+    height: 40px;
+    margin-top: 14px;
+}
+.modal-title{
+   
+    color: gray;
+}
+.carousel-caption{
+    color: black;
+}
+.carousel-caption button{
+    border-radius: 10px;
+    padding: 0px 32px;
+    
+    text-decoration: none;
+   
+    font-size: 20px;
+    height: 40px;
+}
+
+  .carousel-control-prev-icon {
+    width: 30px;
+  }
+.cardd .card-img-top {
+    width: 300px;
+    height: 300px;
+    margin-top: 15px;
+}
+
+.card .card-img-top {
+    width: 300px;
+    height: 300px;
+
+}
+
+.card-body{
+    margin-top: -15px;
+}
+.cardd{
+    width: 300px;
+    height: 450px;
+    box-shadow: 5px 5px 5px 5px #888888;
+transition:0.8s;
+
+}
+.cardd:hover {
+transform: scale(1.1,1.1);
+}
+.card-columns .card{
+
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.row .card{
+    width: 200px;
+    height: 230px;
+    
+    box-shadow:  5px 10px 30px 20px rgb(166, 166, 170) ;
+ text-align: center;
+
+}
+.row .card img{
+    width: 120px;
+    height: 100px;
+    margin: auto;
+   
+
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.logoico{
+    
+    width: 100px;
+    height: 100px;
+}
+footer .container-fluid{
+   padding-top: 40px;
+}
+.logoico-m{
+    margin-top: 50px;
+    
+    width: 200px;
+    height: 200px;
+}
